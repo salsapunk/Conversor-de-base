@@ -1,0 +1,19 @@
+requisitos (por prioridade):
+    alta -
+    	1. converter os números de base em base (ex.: de octal para decimal)
+	    2. implementar as bases: octal, hexadecimal, decimal e binário
+    baixa -
+    	1. pegar números e bases por flags (opcional)
+
+    
+    BINÁRIO -> long long
+    RESTO -> int
+
+    
+    (total de 12 opções de conversões [indo e voltando])
+        octal <-> binário
+        octal <-> decimal
+        octal <-> hexadecimal
+        binário <-> decimal
+        binário <-> hexadecimal
+        hexadecimal <-> decimal
